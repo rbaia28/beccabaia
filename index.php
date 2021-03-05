@@ -7,14 +7,7 @@
 </head>
 
 <body>
-	<header class="navbar sticky-top navbar-light bg-light">
-		<div class="container-fluid">
-			<a class="navbar-brand" href="#">
-				<img src="img/newlogo.jpg" alt="" width="30" height="24" class="d-inline-block align-top">
-				Bootstrap
-			</a>
-		</div>
-	</header>
+<?php include 'nav.php'?>
 	<main class="container">
 		<div class="p-4 p-md-5 mb-4 text-white rounded bg-dark">
 			<div class="col-md-6 px-0">
