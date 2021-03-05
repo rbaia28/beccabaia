@@ -1,0 +1,2 @@
+-outline PR services 
+	-form to collect emails/ connect to a database for management

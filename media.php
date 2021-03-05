@@ -1,0 +1,3 @@
+-.pdf of article
+	-gallery of images from Vegas and WC
+	-any media/interactable things i can scrape from KDC
