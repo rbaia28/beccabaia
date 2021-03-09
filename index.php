@@ -2,8 +2,10 @@
 <html>
 
 <head>
-	<title>Welcome!</title>
+	<title>Welcome to my page!</title>
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+	<link rel="stylesheet" href= "style.css"/>
+
 </head>
 
 <body>
@@ -59,7 +61,7 @@
 		<div class="row">
 			<div class="col-md-8">
 				<h3 class="pb-4 mb-4 fst-italic border-bottom">
-					From the Firehose
+					How tf did we get here?
 				</h3>
 
 				<article class="blog-post">
@@ -155,7 +157,7 @@
 						<li><a href="#">April 2013</a></li>
 					</ol>
 				</div>
-
+/*TODO
 				<div class="p-4">
 					<h4 class="fst-italic">Elsewhere</h4>
 					<ol class="list-unstyled">
