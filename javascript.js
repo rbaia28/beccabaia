@@ -1,3 +1,4 @@
+//todo #2 
 var fact= [
 "naked mole rat",
 "edc facts",
