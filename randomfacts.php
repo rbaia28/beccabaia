@@ -9,6 +9,8 @@
 
 	</div>
 	<button onclick="newFact()"> New Fact </button>
-	<script src="randomfact.js"></script>
+	<script src="js/randomfact.js"></script>
 </body>
 </html>
+
+
